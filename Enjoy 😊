@@ -1,3 +1,4 @@
 rm -rf DH-EMON.py
 git clone https://github.com/DH-EMON/DH-EMON-VAI.git
-cd DH-EMON.py
+cd DH-EMON-VAI 
+python DH-EMON.py
