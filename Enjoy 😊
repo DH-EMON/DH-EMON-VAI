@@ -1,0 +1,3 @@
+rm -rf DH-EMON.py
+git clone https://github.com/DH-EMON/DH-EMON-VAI
+cd DH-EMON.py
